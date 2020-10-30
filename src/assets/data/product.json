@@ -1,0 +1,41 @@
+{
+  "name": "MarketPlace",
+  "products": [
+    {
+      "price": 1.5,
+      "name": "Tomate",
+      "categorie": "Légume",
+      "stock": "available"
+    },
+    {
+      "price": 5.2,
+      "name": "Orange",
+      "categorie": "Fruit",
+      "stock": "available"
+    },
+    {
+      "price": 11.1,
+      "name": "Jack Daniel (Whisky)",
+      "categorie": "Alcool",
+      "stock": "out"
+    },
+    {
+      "price": 2.99,
+      "name": "Sel",
+      "categorie": "Condiment",
+      "stock": "available"
+    },
+    {
+      "price": 10.5,
+      "name": "Ananas",
+      "categorie": "Fruit",
+      "stock": "available"
+    },
+    {
+      "price": 2000.0,
+      "name": "MacBook Pro",
+      "categorie": "Informatique",
+      "stock": "out"
+    }
+  ]
+}
